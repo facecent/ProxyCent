@@ -7,7 +7,7 @@
 #!system_version = 
 #!loon_version = 3.2.1(749)
 #!homepage = https://github.com/facecent/iDuoDuo/blob/main/README.md
-#!icon = https://raw.githubusercontent.com/facecent/iDuoDuo/refs/heads/main/Icon/1024px/BoxJS.png
+#!icon = https://raw.githubusercontent.com/facecent/iDuoDuo/main/Icon/1024px/BoxJS.png
 #!date = 2024-04-23 08:28:27
 
 [Rule]
