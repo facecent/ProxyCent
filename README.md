@@ -47,14 +47,14 @@
     <th>名称</th>
   </tr>
   <tr>
-    <td rowspan="109"><strong>去广告插件</strong></td>
+    <td rowspan="003"><strong>去广告插件</strong></td>
   <tr>
     <td>001</td>
     <td><a href="https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/luestr/ProxyResource/main/Tool/Loon/Plugin/BlockAdvertisers.plugin">广告平台拦截器</a></td>
   </tr>
   <tr>
     <td>002</td>
-    <td><a href="https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/luestr/ProxyResource/main/Tool/Loon/Plugin/Remove_ads_by_keli.plugin">可莉广告过滤器</a></td>
+    <td><a href="https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/facecent/iDuoDuo/refs/heads/main/Plugin/RemoveAds_Kelee.plugin">可莉广告过滤器</a></td>
   </tr>
   <tr>
  
