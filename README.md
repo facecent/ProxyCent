@@ -47,7 +47,7 @@
     <th>名称</th>
   </tr>
   <tr>
-    <td colspan="003"><strong>去广告插件</strong></td>
+    <td rowspan="003"><strong>插件</strong></td>
   <tr>
     <td>001</td>
     <td><a href="https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/facecent/iDuoDuo/main/Plugin/RemoveAds_Kelee.plugin">可莉广告过滤器</a></td>
