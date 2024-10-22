@@ -54,7 +54,7 @@
   </tr>
   <tr>
     <td>002</td>
-    <td><a href="https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/facecent/iDuoDuo/main/Plugin/Bilibili.plugin">Bilibili去广告</a></td>
+    <td><a href="https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/facecent/iDuoDuo/main/Plugin/Bilibili.plugin">Bilibili 去广告</a></td>
   </tr>
 </table>
 
