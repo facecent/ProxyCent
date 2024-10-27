@@ -1,6 +1,6 @@
 #!name = Bilibili每日等级任务
 #!desc = 定时任务及Cookie获取。现将获取cookie与定时任务合并为一个模块，保持开启,如检测到cookie变更会自动更新,解决cookie经常过期的问题(cookie仍有效不提醒更新)。任务奖励：经验值/硬币/大会员积分/年度会员领取B币等
-#!openurl = https://apps.apple.com/app/id1517062289
+#!openurl = https://apps.apple.com/app/id736536022
 #!author = facecent[https://github.com/facecent], ClydeTime[https://github.com/ClydeTime]
 #!tag = 功能增强
 #!system = iOS,iPadOS
