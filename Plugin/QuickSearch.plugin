@@ -7,7 +7,7 @@
 #!system_version = 10.0
 #!loon_version = 3.2.1(749)
 #!homepage = https://github.com/facecent/iDuoDuo/blob/main/README.md
-#!icon = https://raw.githubusercontent.com/facecent/iDuoDuo/main/Icon/1024px/Safari.png
+#!icon = https://raw.githubusercontent.com/facecent/iDuoDuo/main/Icons/Safari.png
 #!date = 2024-10-01
 
 [Rewrite]
