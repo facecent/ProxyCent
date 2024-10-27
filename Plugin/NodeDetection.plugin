@@ -7,7 +7,7 @@
 #!system_version = 
 #!loon_version = 3.2.1(749)
 #!homepage = https://github.com/facecent/iDuoDuo/blob/main/README.md
-#!icon = https://raw.githubusercontent.com/facecent/iDuoDuo/main/Icon/1024px/NodeDetection.png
+#!icon = https://raw.githubusercontent.com/facecent/iDuoDuo/main/Icons/NodeDetection.png
 #!date = 2024-08-24 04:06:23
 
 [Script]
