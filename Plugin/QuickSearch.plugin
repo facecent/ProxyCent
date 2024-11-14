@@ -33,9 +33,9 @@
 ^https:\/\/duckduckgo\.com\/\?q=bdimg\+([^&]+).+ 302 https://image.baidu.com/search/index?tn=baiduimage&word=$1
 ^https:\/\/duckduckgo\.com\/\?q=byimg\+([^&]+).+ 302 https://www.bing.com/images/search?q=$1
 ^https:\/\/duckduckgo\.com\/\?q=ydimg\+([^&]+).+ 302 https://yandex.com/images/touch/search?lr=10636&text=$1
-^https:\/\/duckduckgo\.com\/\?q=ggc\+([^&]+).+ 302 https://translate.google.com/#view=home&op=translate&sl=auto&tl=zh-CN&text=$1
-^https:\/\/duckduckgo\.com\/\?q=gge\+([^&]+).+ 302 https://translate.google.com/#view=home&op=translate&sl=auto&tl=en&text=$1
-^https:\/\/duckduckgo\.com\/\?q=ggj\+([^&]+).+ 302 https://translate.google.com/#view=home&op=translate&sl=auto&tl=ja&text=$1
+^https:\/\/duckduckgo\.com\/\?q=ggzh\+([^&]+).+ 302 https://translate.google.com/#view=home&op=translate&sl=auto&tl=zh-CN&text=$1
+^https:\/\/duckduckgo\.com\/\?q=ggen\+([^&]+).+ 302 https://translate.google.com/#view=home&op=translate&sl=auto&tl=en&text=$1
+^https:\/\/duckduckgo\.com\/\?q=ggja\+([^&]+).+ 302 https://translate.google.com/#view=home&op=translate&sl=auto&tl=ja&text=$1
 ^https:\/\/duckduckgo.com\/\?q=icn&.+ 302 https://itunes.apple.com/WebObjects/MZStore.woa/wa/resetAndRedirect?dsf=143465&mt=8&url=/WebObjects/MZStore.woa/wa/viewSoftware?mt=8&id=1108187390&cc=cn&urlDesc=$1
 ^https:\/\/duckduckgo.com\/\?q=ius&.+ 302 https://itunes.apple.com/WebObjects/MZStore.woa/wa/resetAndRedirect?dsf=143441&mt=8&url=/WebObjects/MZStore.woa/wa/viewSoftware?mt=8&id=1108187390&cc=us&urlDesc=$1
 ^https:\/\/duckduckgo.com\/\?q=ihk&.+ 302 https://itunes.apple.com/WebObjects/MZStore.woa/wa/resetAndRedirect?dsf=143463&mt=8&url=/WebObjects/MZStore.woa/wa/viewSoftware?mt=8&id=1108187390&cc=hk&urlDesc=$1
