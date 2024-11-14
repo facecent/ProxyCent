@@ -3,12 +3,12 @@
 #!openUrl = http://boxjs.com
 #!author = facecent[https://github.com/facecent], luestr[https://github.com/luestr], chavyleung[https://github.com/chavyleung]
 #!tag = 数据管理
-#!system = 
+#!system = iOS
 #!system_version = 
 #!loon_version = 3.2.1(749)
-#!homepage = https://github.com/facecent/iDuoDuo/blob/main/README.md
-#!icon = https://raw.githubusercontent.com/facecent/iDuoDuo/main/Icons/BoxJS.png
-#!date = 2024-04-23 08:28:27
+#!homepage = https://github.com/facecent/ProxyCent/blob/main/README.md
+#!icon = https://raw.githubusercontent.com/facecent/ProxyCent/main/Icons/BoxJS.png
+#!date = 2024-11-14
 
 [Rule]
 DOMAIN-SUFFIX, jsdelivr.net, PROXY
