@@ -1,6 +1,6 @@
 #!name = QuickSearch
 #!desc = 为Safari提供快速切换搜索引擎的能力，点击下方链接查看使用说明。
-#!openUrl = https://github.com/facecent/ProxyCent/blob/main/Plugin/QuickSearch.md
+#!openUrl = https://github.com/facecent/ProxyCent/blob/main/QuickSearch.md
 #!author = facecent[https://github.com/facecent], luestr[https://github.com/luestr]
 #!tag = 功能增强
 #!system = iOS,iPadOS,macOS
