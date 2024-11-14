@@ -1,4 +1,4 @@
-#!name = Script-Hub
+#!name = ScriptHub
 #!desc = 将其他工具的Rewrite、Rule和JavaScript资源转换为Loon能识别的格式，使用前请在本插件的详情页面为[PROXY]项分配代理策略。点击下方链接查看更详细的使用方法。
 #!openUrl = https://script.hub/
 #!author = facecent[https://github.com/facecent], luestr[https://github.com/luestr], xream[https://github.com/xream], Keywos[https://github.com/Keywos], CKYB[https://github.com/CKYB], 小白脸
@@ -6,9 +6,9 @@
 #!system = 
 #!system_version = 
 #!loon_version = 3.2.1(749)
-#!homepage = https://github.com/facecent/iDuoDuo/blob/main/README.md
-#!icon = https://raw.githubusercontent.com/facecent/iDuoDuo/main/Icons/Script-Hub.png
-#!date = 2024-08-27 05:26:45
+#!homepage = https://github.com/facecent/ProxyCent/blob/main/README.md
+#!icon = https://raw.githubusercontent.com/facecent/ProxyCent/main/Icons/ScriptHub.png
+#!date = 2024-11-14
 #!select = ScriptHub通知, 开启通知, 关闭通知, 跟随链接
 #!input = Parser_body_max
 #!input = Parser_http_timeout
