@@ -6,9 +6,9 @@
 #!system = iOS,iPadOS
 #!system_version = 15
 #!loon_version = 3.2.1(749)
-#!homepage = https://github.com/facecent/iDuoDuo/blob/main/README.md
-#!icon = https://raw.githubusercontent.com/facecent/iDuoDuo/main/Icons/Bilibili.png
-#!date = 2024-10-19 17:18:31
+#!homepage = https://github.com/facecent/ProxyCent/blob/main/README.md
+#!icon = https://raw.githubusercontent.com/facecent/ProxyCent/main/Icons/Bilibili.png
+#!date = 2024-11-14
 
 [General]
 force-http-engine-hosts = :8000
