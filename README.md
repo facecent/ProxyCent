@@ -20,4 +20,4 @@
 > 如果你点击下面的链接发现跳转到了空白页面，建议恢复 Safari 为默认浏览器后重启设备。待网络完全恢复到正常状态之后，再打开 Loon，以重新下载统一链接的配置文件。
 
 > [!NOTE]
-> 下面的所有插件可直接点击链接一键添加，不要复制链接手动安装。遇到插件失效的，请先阅读[知识k库](https://getupnote.com/share/notes/zSn1ShBmzNYISKcTgjXE5oHMrNf2/b6047d8b-621c-44af-bfa6-a28d35bcf928)排查。
+> 下面的所有插件可直接点击链接一键添加，不要复制链接手动安装。遇到插件失效的，请先阅读[知识库](https://getupnote.com/share/notes/zSn1ShBmzNYISKcTgjXE5oHMrNf2/b6047d8b-621c-44af-bfa6-a28d35bcf928)排查。
