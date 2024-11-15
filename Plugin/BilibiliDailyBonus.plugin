@@ -7,17 +7,17 @@
 #!system_version = 
 #!loon_version = 
 #!homepage = https://github.com/facecent/ProxyCent/blob/main/README.md
-#!icon= https://raw.githubusercontent.com/facecent/ProxyCent/main/Icons/Bilibili.png
-#!date = 2024-11-14
+#!icon= https://raw.githubusercontent.com/facecent/ProxyCent/main/Icon/Bilibili.png
+#!date = 2024-11-15
 
 
 [Script]
 # BiliBili每日等级任务
-cron "30 7 * * *" script-path=https://raw.githubusercontent.com/ClydeTime/BiliBili/main/js/BiliBiliDailyBonus.js, tag=B站每日等级任务
+cron "30 7 * * *" script-path=https://raw.githubusercontent.com/facecent/ProxyCent/main/JavaScript/BilibiliDailyBonus.js, tag=B站每日等级任务
 
-http-request ^https?:\/\/app\.bilibili\.com\/x\/resource\/fingerprint\? script-path=https://raw.githubusercontent.com/ClydeTime/BiliBili/main/js/BiliBiliDailyBonus.js, tag=B站Cookie(APP)
+http-request ^https?:\/\/app\.bilibili\.com\/x\/resource\/fingerprint\? script-path=https://raw.githubusercontent.com/facecent/ProxyCent/main/JavaScript/BilibiliDailyBonus.js, tag=B站Cookie(APP)
 
-http-request ^https?:\/\/m.bilibili.com/$ script-path=https://raw.githubusercontent.com/ClydeTime/BiliBili/main/js/BiliBiliDailyBonus.js, tag=B站Cookie(网页)
+http-request ^https?:\/\/m.bilibili.com/$ script-path=https://raw.githubusercontent.com/facecent/ProxyCent/main/JavaScript/BilibiliDailyBonus.js, tag=B站Cookie(网页)
 
 [MITM]
 hostname = app.bilibili.com, m.bilibili.com
