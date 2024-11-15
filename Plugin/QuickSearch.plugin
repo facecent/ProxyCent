@@ -7,8 +7,8 @@
 #!system_version = 10.0
 #!loon_version = 3.2.1(749)
 #!homepage = https://github.com/facecent/ProxyCent/blob/main/README.md
-#!icon = https://raw.githubusercontent.com/facecent/ProxyCent/main/Icons/Safari.png
-#!date = 2024-11-14
+#!icon = https://raw.githubusercontent.com/facecent/ProxyCent/main/Icon/Safari.png
+#!date = 2024-11-15
 
 [Rewrite]
 ^https:\/\/duckduckgo\.com\/\?q=bd\+([^&]+).+ 302 https://www.baidu.com/s?wd=$1
