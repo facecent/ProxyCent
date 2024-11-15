@@ -38,4 +38,5 @@
 | ijp     | App Store切换至日本区 |
 | ikr     | App Store切换至韩国区 |
 | itr     | App Store切换至土耳其区 |
+| isg     | App Store切换至新加坡区 ｜
 
