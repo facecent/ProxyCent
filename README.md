@@ -23,21 +23,18 @@
 | 插件名称                  | 分流名称             | MaxMind 数据库       |
 | :----------------------- | :------------------ | :------------------ |
 | [Safari快捷搜索][1.1]      | [LAN][2.1]         | [GeoLite2][Country] |
-| [哔哩哔哩去广告][1.2]       | [ChinaGeoIP][2.2]  | [GeoLite2-ASN][ASN] |
+| [Spotify去广告][1.2]      | [ChinaGeoIP][2.2]  | [GeoLite2-ASN][ASN] |
 | [哔哩哔哩每日等级任务][1.3]  | [Apple][2.3]       |               
-| [BoxJS配置][1.4]          | [Apple_Domain][2.4] |
-| [ScriptHub配置][1.5]      |  
-| [Spotify去广告][1.6]      |       
+| [BoxJS配置][1.4]         | [Apple_Domain][2.4] |
+     
 
 [Country]: https://www.nsloon.com/openloon/import?geoip=https://github.com/facecent/ProxyCent/raw/refs/heads/main/Databases/GeoLite2-Country.mmdb
 [ASN]: https://www.nsloon.com/openloon/import?asn=https://github.com/facecent/ProxyCent/raw/refs/heads/main/Databases/GeoLite2-ASN.mmdb
 
 [1.1]: https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/facecent/ProxyCent/main/Plugin/QuickSearch.plugin
-[1.2]: https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/facecent/ProxyCent/main/Plugin/Bilibili.plugin
+[1.2]: https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/facecent/ProxyCent/main/Plugin/Spotify.plugin
 [1.3]: https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/facecent/ProxyCent/main/Plugin/BilibiliDailyBonus.plugin
 [1.4]: https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/facecent/ProxyCent/main/Plugin/BoxJS.plugin
-[1.5]: https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/facecent/ProxyCent/main/Plugin/ScriptHub.plugin
-[1.6]: https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/facecent/ProxyCent/main/Plugin/Spotify.plugin
 
 [2.1]: https://www.nsloon.com/openloon/import?rules=https://raw.githubusercontent.com/facecent/ProxyCent/main/Rule/LAN.list
 [2.2]: https://www.nsloon.com/openloon/import?rules=https://raw.githubusercontent.com/facecent/ProxyCent/main/Rule/ChinaGeoIP.list
