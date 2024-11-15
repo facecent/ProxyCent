@@ -19,5 +19,5 @@ http-request ^https?:\/\/app\.bilibili\.com\/x\/resource\/fingerprint\? script-p
 
 http-request ^https?:\/\/m.bilibili.com/$ script-path = https://raw.githubusercontent.com/facecent/ProxyCent/main/JavaScript/BilibiliDailyBonus.js, tag = B站Cookie(网页)
 
-[MITM]
+[MitM]
 hostname = app.bilibili.com, m.bilibili.com
