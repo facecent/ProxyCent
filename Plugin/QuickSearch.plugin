@@ -1,13 +1,14 @@
 #!name = QuickSearch
 #!desc = 为Safari提供快速切换搜索引擎的能力，点击下方链接查看使用说明。
 #!openUrl = https://github.com/facecent/ProxyCent/blob/main/QuickSearch.md
-#!author = facecent[https://github.com/facecent] 
+#!author = facecent[https://github.com/facecent], ddgksf2013[https://github.com/ddgksf2013]
 #!tag = 功能增强
 #!system = iOS,iPadOS,macOS
 #!system_version = 10.0
 #!loon_version = 3.2.1(749)
 #!homepage = https://github.com/facecent/ProxyCent/blob/main/README.md
 #!icon = https://raw.githubusercontent.com/facecent/ProxyCent/main/Icon/Safari.png
+#App Store Switch from >>https://www.liangjianghu.com/searchads-appstore-switch
 #!date = 2024-11-15
 
 [Rewrite]
@@ -42,6 +43,7 @@
 ^https:\/\/duckduckgo.com\/\?q=ijp&.+ 302 https://itunes.apple.com/WebObjects/MZStore.woa/wa/resetAndRedirect?dsf=143462&mt=8&url=/WebObjects/MZStore.woa/wa/viewSoftware?mt=8&id=1108187390&cc=jp&urlDesc=$1
 ^https:\/\/duckduckgo.com\/\?q=ikr&.+ 302 https://itunes.apple.com/WebObjects/MZStore.woa/wa/resetAndRedirect?dsf=143466&mt=8&url=/WebObjects/MZStore.woa/wa/viewSoftware?mt=8&id=1108187390&cc=kr&urlDesc=$1
 ^https:\/\/duckduckgo.com\/\?q=itr&.+ 302 https://itunes.apple.com/WebObjects/MZStore.woa/wa/resetAndRedirect?dsf=143480&mt=8&url=/WebObjects/MZStore.woa/wa/viewSoftware?mt=8&id=1108187390&cc=tr&urlDesc=$1
+^https:\/\/duckduckgo.com\/\?q=isg&.+ 302 https://itunes.apple.com/WebObjects/MZStore.woa/wa/resetAndRedirect?dsf=143464&mt=8&url=/WebObjects/MZStore.woa/wa/viewSoftware?mt=8&id=1108187390&cc=sg&urlDesc=$1
 ^https:\/\/duckduckgo\.com\/\?q=([^&]+).+ 302 https://www.google.com/search?q=$1
 
 [MitM]
