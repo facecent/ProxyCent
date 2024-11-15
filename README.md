@@ -23,10 +23,10 @@
 | 插件名称                  | 分流名称             | MaxMind 数据库       |
 | :----------------------- | :------------------ | :------------------ |
 | [Safari快捷搜索][1.1]      | [LAN][2.1]         | [GeoLite2][Country] |
-| [Spotify去广告][1.2]      | [ChinaGeoIP][2.2]  | [GeoLite2-ASN][ASN] |
-| [哔哩哔哩每日等级任务][1.3]  | [Apple][2.3]       |               
-| [BoxJS配置][1.4]         | [Apple_Domain][2.4] |
-| [YouTube去广告][1.5]     |
+| [Spotify去广告][1.2]       | [ChinaGeoIP][2.2]  | [GeoLite2-ASN][ASN] |
+| [Bilibili每日等级任务][1.3]  | [Apple][2.3]       |               
+| [BoxJS配置][1.4]           | [Apple_Domain][2.4] |
+| [YouTube去广告][1.5]       |
      
 
 [Country]: https://www.nsloon.com/openloon/import?geoip=https://github.com/facecent/ProxyCent/raw/refs/heads/main/Databases/GeoLite2-Country.mmdb
