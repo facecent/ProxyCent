@@ -24,10 +24,17 @@
 | :----------------------- | :------------------ | :------------------ |
 | [Safari快捷搜索][1.1]      | [LAN][2.1]         | [GeoLite2][Country] |
 | [Spotify去广告][1.2]       | [ChinaGeoIP][2.2]  | [GeoLite2-ASN][ASN] |
-| [Bilibili每日等级任务][1.3]  | [Apple][2.3]       |               
+| [Bilibili每日等级任务][1.3] | [Apple][2.3]       |              
 | [BoxJS配置][1.4]           | [Apple_Domain][2.4] |
-| [YouTube去广告][1.5]       |
-     
+| [YouTube去广告][1.5]       | [Facebook][2.5]    |
+|                           | [GitHub][2.6]      |
+|                           | [Google][2.7]      |
+|                           | [OpenAI][2.8]      |
+|                           | [Spotify][2.9]     |
+|                           | [Telegram][2.10]   |
+|                           | [Twitter][2.11]    |
+|                           | [YouTube][2.12]    |
+
 
 [Country]: https://www.nsloon.com/openloon/import?geoip=https://github.com/facecent/ProxyCent/raw/refs/heads/main/Databases/GeoLite2-Country.mmdb
 [ASN]: https://www.nsloon.com/openloon/import?asn=https://github.com/facecent/ProxyCent/raw/refs/heads/main/Databases/GeoLite2-ASN.mmdb
@@ -42,4 +49,12 @@
 [2.2]: https://www.nsloon.com/openloon/import?rules=https://raw.githubusercontent.com/facecent/ProxyCent/main/Rule/ChinaGeoIP.list
 [2.3]: https://www.nsloon.com/openloon/import?rules=https://raw.githubusercontent.com/facecent/ProxyCent/main/Rule/Apple.list
 [2.4]: https://www.nsloon.com/openloon/import?rules=https://raw.githubusercontent.com/facecent/ProxyCent/main/Rule/Apple_Domain.list
+[2.5]: https://www.nsloon.com/openloon/import?rules=https://raw.githubusercontent.com/facecent/ProxyCent/main/Rule/Facebook.list
+[2.6]: https://www.nsloon.com/openloon/import?rules=https://raw.githubusercontent.com/facecent/ProxyCent/main/Rule/GitHub.list
+[2.7]: https://www.nsloon.com/openloon/import?rules=https://raw.githubusercontent.com/facecent/ProxyCent/main/Rule/Google.list
+[2.8]: https://www.nsloon.com/openloon/import?rules=https://raw.githubusercontent.com/facecent/ProxyCent/main/Rule/OpenAI.list
+[2.9]: https://www.nsloon.com/openloon/import?rules=https://raw.githubusercontent.com/facecent/ProxyCent/main/Rule/Spotify.list
+[2.10]: https://www.nsloon.com/openloon/import?rules=https://raw.githubusercontent.com/facecent/ProxyCent/main/Rule/Telegram.list
+[2.11]: https://www.nsloon.com/openloon/import?rules=https://raw.githubusercontent.com/facecent/ProxyCent/main/Rule/Twitter.list
+[2.12]: https://www.nsloon.com/openloon/import?rules=https://raw.githubusercontent.com/facecent/ProxyCent/main/Rule/YouTube.list
 
