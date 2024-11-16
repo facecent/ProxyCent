@@ -11,12 +11,9 @@
 #!date = 2024-11-15
 
 
-[Script]
-# BiliBili每日等级任务
+[Script] 
 cron "30 7 * * *" script-path = https://raw.githubusercontent.com/facecent/ProxyCent/main/JavaScript/BilibiliDailyBonus.js, tag = B站每日等级任务
-
 http-request ^https?:\/\/app\.bilibili\.com\/x\/resource\/fingerprint\? script-path = https://raw.githubusercontent.com/facecent/ProxyCent/main/JavaScript/BilibiliDailyBonus.js, tag = B站Cookie(APP)
-
 http-request ^https?:\/\/m.bilibili.com/$ script-path = https://raw.githubusercontent.com/facecent/ProxyCent/main/JavaScript/BilibiliDailyBonus.js, tag = B站Cookie(网页)
 
 [MitM]
