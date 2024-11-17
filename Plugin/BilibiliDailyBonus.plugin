@@ -1,0 +1,20 @@
+#!name = Bilibili每日等级任务
+#!desc = 定时任务及Cookie获取。现将获取cookie与定时任务合并为一个模块，保持开启,如检测到cookie变更会自动更新,解决cookie经常过期的问题(cookie仍有效不提醒更新)。任务奖励：经验值/硬币/大会员积分/年度会员领取B币等
+#!openurl = https://apps.apple.com/app/id736536022
+#!author = ClydeTime[https://github.com/ClydeTime]
+#!tag = 功能增强
+#!system = iOS, iPadOS
+#!system_version = 
+#!loon_version = 
+#!homepage = https://github.com/facecent/ProxyCent/blob/main/README.md
+#!icon= https://raw.githubusercontent.com/facecent/ProxyCent/main/Icon/Bilibili.png
+#!date = 2024-11-15
+
+
+[Script] 
+cron "30 7 * * *" script-path = https://raw.githubusercontent.com/facecent/ProxyCent/main/JavaScript/BilibiliDailyBonus.js, tag = B站每日等级任务
+http-request ^https?:\/\/app\.bilibili\.com\/x\/resource\/fingerprint\? script-path = https://raw.githubusercontent.com/facecent/ProxyCent/main/JavaScript/BilibiliDailyBonus.js, tag = B站Cookie(APP)
+http-request ^https?:\/\/m.bilibili.com/$ script-path = https://raw.githubusercontent.com/facecent/ProxyCent/main/JavaScript/BilibiliDailyBonus.js, tag = B站Cookie(网页)
+
+[MitM]
+hostname = app.bilibili.com, m.bilibili.com
