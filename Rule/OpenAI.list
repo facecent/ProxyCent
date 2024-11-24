@@ -1,7 +1,7 @@
-#!neme= OpenAI
-#!desc= OpenAI family
-#!author= @blackmatrix7
-#!homepage= https://github.com/facecent/ProxyCent/blob/main/README.md
+#!neme = OpenAI
+#!desc = OpenAI family
+#!author = @blackmatrix7
+#!homepage = https://github.com/facecent/ProxyCent/blob/main/README.md
 #!date = 2024-11-15
 
 DOMAIN,browser-intake-datadoghq.com
