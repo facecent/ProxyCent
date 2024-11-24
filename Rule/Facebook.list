@@ -1,7 +1,7 @@
-#!neme= Facebook 
-#!desc= Meta family
-#!author= @blackmatrix7
-#!homepage= https://github.com/facecent/ProxyCent/blob/main/README.md
+#!neme = Facebook 
+#!desc = Meta family
+#!author = @blackmatrix7
+#!homepage = https://github.com/facecent/ProxyCent/blob/main/README.md
 #!date = 2024-11-15
 
 DOMAIN-SUFFIX,aboutfacebook.com
