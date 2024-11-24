@@ -1,7 +1,7 @@
-#!neme= Telegram 
-#!desc= Telegram family 
-#!author= @blackmatrix7
-#!homepage= https://github.com/facecent/ProxyCent/blob/main/README.md
+#!neme = Telegram 
+#!desc = Telegram family 
+#!author = @blackmatrix7
+#!homepage = https://github.com/facecent/ProxyCent/blob/main/README.md
 #!date = 2024-11-15
 
 DOMAIN,api.imem.app
