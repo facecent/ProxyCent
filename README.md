@@ -23,6 +23,7 @@
 |                           | [Telegram][2.10]   |
 |                           | [Twitter][2.11]    |
 |                           | [YouTube][2.12]    |
+|                           | [Riot][2.13]       |
 
 
 [Country]: https://www.nsloon.com/openloon/import?geoip=https://github.com/facecent/ProxyCent/raw/refs/heads/main/Databases/GeoLite2-Country.mmdb
@@ -46,4 +47,5 @@
 [2.10]: https://www.nsloon.com/openloon/import?rules=https://raw.githubusercontent.com/facecent/ProxyCent/main/Rule/Telegram.list
 [2.11]: https://www.nsloon.com/openloon/import?rules=https://raw.githubusercontent.com/facecent/ProxyCent/main/Rule/Twitter.list
 [2.12]: https://www.nsloon.com/openloon/import?rules=https://raw.githubusercontent.com/facecent/ProxyCent/main/Rule/YouTube.list
+[2.13]: https://www.nsloon.com/openloon/import?rules=https://raw.githubusercontent.com/facecent/ProxyCent/main/Rule/Riot.list
 
